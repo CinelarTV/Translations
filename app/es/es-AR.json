@@ -1,3 +1,4 @@
 {
-    "install_from_googleplay": "Lo sentimos, CinelarTV debe instalarse desde Google Play Store para funcionar correctamente"
+    "install_from_googleplay": "Lo sentimos, CinelarTV debe instalarse desde Google Play Store para funcionar correctamente",
+    "region_not_available": "¡Vaya! Parece que CinelarTV no está disponible en tu país \"{{country.name}}\""
 }

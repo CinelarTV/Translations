@@ -1,1 +1,4 @@
-
+{
+    "install_from_googleplay": "We're sorry, CinelarTV must be installed from Google Play Store to work properly",
+    "region_not_available": "Oops... it seems CinelarTV is not available in your country \"{{country.name}}\""
+}
